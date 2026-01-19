@@ -1,0 +1,8 @@
+# Build artifacts
+build/
+
+# Logs (optional – keep if you want)
+*.log
+
+# Editor files
+.vscode/
