@@ -11,7 +11,7 @@ Key directories:
 Design decision:
 - My application is developed out-of-tree.
 - This preserves the integrity of the upstream code, simplifies upgrades where applications link against DPDK as an external dependency.
-- This mirrors real industry usage and avoids modifying DPDK core.
+
 
 Key takeaway:
 - Applications link against DPDK libraries.
