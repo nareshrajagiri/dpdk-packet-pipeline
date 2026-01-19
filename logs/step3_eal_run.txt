@@ -1,0 +1,2 @@
+EAL initialized successfully
+Main lcore id: 0
