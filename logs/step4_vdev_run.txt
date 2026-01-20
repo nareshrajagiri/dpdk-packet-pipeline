@@ -1,0 +1,3 @@
+EAL initialized successfully
+Main lcore id: 0
+Number of available Ethernet ports: 1
